@@ -38,7 +38,7 @@ Für weitere Informationen oder Fragen wenden Sie sich bitte an den Autor Jonas 
 
 ## Main documentation
 
-The main documentation of the meta-temporal model is located in the file [Meta-Timespace-Modell.md](https://github.com/JosunLP/MZModel/blob/main/src/Meta-Timespace-Model.md). This file contains:
+The main documentation of the meta-temporal model is located in the file [Meta-Timespace-Modell.md](src/Meta-Timespace-Model.md). This file contains:
 
 1. **Introduction**: Problem statement, aim of the model and methodology.
 2 **Existing models and their limitations**: Discussion on Kaluza-Klein theory, string theory and many-worlds interpretation.
